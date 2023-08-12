@@ -1,0 +1,19 @@
+.odd_numbered {
+  background-color: #ff8888;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.nr_3 {
+  font-size: 24px
+}
+
+#nr_2 {
+  color: rgb(80, 80, 255);
+  font-size: 36px
+}
+
+#nr_4 {
+  background-color: hsl(120, 60%, 70%);
+  font-size: 24px;
+  font-weight: 700
+}
